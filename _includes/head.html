@@ -1,0 +1,13 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>{{ include.title | default: site.t[page.lang].title }}</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.redirect %}
+  <meta http-equiv="refresh" content="0;URL='{{ page.redirect }}'" /> 
+  {% endif %}
+
+  <link rel="stylesheet" media="all" href="{{site.baseurl}}/assets/css/app.css" />
+</head>

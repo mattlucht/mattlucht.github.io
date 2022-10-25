@@ -1,0 +1,28 @@
+
+email: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+domain: ""
+
+exclude: [src, node_modules, package*, Gemfile*]
+
+# Build settings
+markdown: kramdown
+# theme: minima
+plugins:
+  - jekyll-feed
+
+t:
+  en:
+    title: Site title
+    language: English
+    root: /en
+    welcome: Welcome to
+  cy:
+    title: Teitl y safle
+    language: Cymraeg
+    root: /cy
+    welcome: Croeso i
+

@@ -1,0 +1,23 @@
+{% assign title=page.title | append: " | " | append: site.t[page.lang].title  %}
+{% include pageStart.html title=title %}
+
+<main class="main">
+
+  {% include language-switcher.html pages=site.pages %}
+
+  <h3>{{ site.t[page.lang].title }}</h3>
+
+  <div class="lbm-container lbm-markdown-output">
+    {{ content }}
+  </div>
+
+  <ul>
+    {% assign subpages=site.categories[page.section] | where:"lang", page.lang %}
+    {% for p in subpages %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+</main>
+
+{% include pageEnd.html %}
