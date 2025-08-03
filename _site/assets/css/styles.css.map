@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAAA;EACE","sourcesContent":[".current {\n  color: green;\n}\n"],"file":"styles.css"}
+{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAAA;EACE;;;AAGF;EACE;EACA","sourcesContent":[".current {\n  color: green;\n}\n\nimg {\n  width: 50%;\n  height: auto;\n}"],"file":"styles.css"}
