@@ -4,7 +4,7 @@ author: matt
 summary: How can local area requirements help shape the priority of our data standards work.
 ---
 
-_This was originally posted on the [Digial Land blog](https://digital-land.github.io/blog-post/digging-into-local-area-requirements/)_
+_This was originally posted on the [Digtial Land blog](https://digital-land.github.io/blog-post/digging-into-local-area-requirements/)_
 
 Recently we’ve been spending a bit of time looking into local area requirements (also referred to as validation lists, checklists, and a few other names too). We hope that through understanding more about these requirements we’ll be able to better prioritise our work in data standards to support the modern planning software and local plan projects.
 

@@ -7,4 +7,28 @@ img {
   height: auto;
 }
 
+body {
+  font-family: "Funnel Sans", "Raleway", sans-serif;
+  line-height: 1.6;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  width: 90%;
+  max-width: 1200px;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+col {
+  flex: 1;
+  padding: 10px;
+}
+
 /*# sourceMappingURL=styles.css.map */
