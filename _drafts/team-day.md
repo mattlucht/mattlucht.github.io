@@ -1,0 +1,67 @@
+---
+title: "Team day"
+author: matt
+---
+
+Last week, [team Invite](https://design-history.prevention-services.nhs.uk/screening-invite/) got together for a bit of team building and to talk about our evolving remit. 
+
+As a team who are located all across the country, it’s the first time since I joined the project that we’ve all been able to get together in person.
+
+I can’t speak for everyone else, but I really enjoyed the day. I personally value the face-to-face time with colleagues, and whilst I appreciate that being co-located is now far from the norm, I think that it’s important to make the time and space to get together, where people are willing and able to.
+
+## Less is more
+
+On days like this, it’s tempting to pack out the agenda and solve _all the things_. But we purposely kept the day fairly light with an emphasis on taking time to see where conversation led us. 
+
+We did, however, give the day a bit of structure... 
+
+### Morning: getting to know each other
+
+After a relaxed start to give those who had to travel plenty of time to arrive and get settled, we ran a team retrospective. We kept it basic and allowed conversations to carry on for longer than we might’ve ordinarily.
+
+I think out of all the team-y sessions, retros are the ones that I find most difficult to do remotely!
+
+Some useful themes around best practice for sharing information, prioritisation of work, and cross-team collaboration emerged. 
+
+We then led onto a [“manual of me”](https://emilywebber.co.uk/the-team-manual-a-exercise-to-help-build-empathy-in-teams/) exercise. I have to admit, in the past, I’d been a bit sceptical about these types of things. But now, having done it with a number of different teams, I’m 100% converted to its value. 
+
+I also think that it’s something worth repeating every now and then. Not only do you learn more about the people you’re working with, it’s helpful to reflect on how your needs change over time. 
+
+Here’s my latest ‘manual of me’. 
+
+![A screenshot of Matt's manual of me from the recent team day](/assets/images/manual-of-me.png)
+
+
+### Afternoon: our evolving remit
+
+When I joined the team, our remit was focused on establishing digital 1st communications across all screening pathways (breast, cervical, bowel, etc.). 
+
+Our immediate priority remains the [delivery of a private beta of breast screening appointment invites](https://mattlucht.github.io/2025/08/04/where-am-i.html#what-are-we-doing). However, beyond that, our focus has shifted to looking at the end-to-end breast screening experience from the participant perspective, of which comms is just one part. 
+
+The goal of the afternoon was to put aside all known constraints (of which there are many) and imagine what might make for the best screening experience. 
+
+We mapped out the lifecycle of a screening participant, from pre-eligibility age to getting their first screening appointment, receiving their results, through to being over the age eligible for automatic appointments. 
+
+At each stage, we thought about the potential needs and opportunities where we might be able to do something different.
+
+![A photo of the wall from the team day where we mapped out ideas about a possible screening journey](/assets/images/team-day-wall.png)
+
+Collectively, we came up with lots of ideas and identified some areas that we’d like to explore further and talk about with other teams who are working on other aspects of the breast screening pathway. As well as potential service ‘features’, it also highlighted some overarching principles, such as whatever we do needs to be equitable and accessible.
+
+This week we're back to working as a remote team and hopefully feeling the benefits of a day spent together!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
