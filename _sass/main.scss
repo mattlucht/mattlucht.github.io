@@ -1,12 +1,3 @@
-.current {
-  color: green;
-}
-
-img {
-  width: 75%;
-  height: auto;
-}
-
 body {
   font-family: 'Funnel Sans', 'Raleway', sans-serif;
   font-size: 1.2rem;
@@ -17,6 +8,16 @@ body {
   max-width: 1200px;
 }
 
+.current {
+  color: green;
+}
+
+img {
+  width: 75%;
+  height: auto;
+  border: 1px solid #ccc;
+}
+
 row {
   display: flex;
   flex-wrap: wrap;
@@ -25,4 +26,18 @@ row {
 col {
   flex: 1;
   padding: 10px;
+}
+
+h1, h2 {
+  font-weight: bold;
+} 
+
+h3 {
+  color: #3D85C6;
+}
+
+.excerpt h2, .excerpt p {
+  font-size: 1.2rem;
+  font-style: italic;
+  font-weight: normal;
 }
