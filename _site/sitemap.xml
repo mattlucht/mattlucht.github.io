@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/authors/matt.html</loc>
-<lastmod>2025-08-07T12:07:18+01:00</lastmod>
+<lastmod>2025-08-07T14:28:52+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2018/10/16/making-developer-contributions-open-and-transparent.html</loc>
@@ -23,6 +23,22 @@
 <url>
 <loc>http://localhost:4000/2023/02/10/local-government-content-discovery-week-4-and-5.html</loc>
 <lastmod>2023-02-10T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2023/02/17/local-government-content-discovery-week-6.html</loc>
+<lastmod>2023-02-17T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2023/02/24/local-government-content-discovery-week-7.html</loc>
+<lastmod>2023-02-24T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2023/03/03/local-government-content-discovery-week-8.html</loc>
+<lastmod>2023-03-03T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2023/03/10/local-government-content-discovery-week-9.html</loc>
+<lastmod>2023-03-10T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2024/01/22/digging-into-local-area-requirements.html</loc>

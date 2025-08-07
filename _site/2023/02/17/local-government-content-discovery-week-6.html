@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Local government content discovery – week 6</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Local government content discovery – week 6</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Local government content discovery – week 6" />
+<meta name="author" content="matt" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Our focus for this week has primarily been around building a prototype for the “check if you qualify for money off your council tax” and “apply for money off your council tax” journeys." />
+<meta property="og:description" content="Our focus for this week has primarily been around building a prototype for the “check if you qualify for money off your council tax” and “apply for money off your council tax” journeys." />
+<link rel="canonical" href="http://localhost:4000/2023/02/17/local-government-content-discovery-week-6.html" />
+<meta property="og:url" content="http://localhost:4000/2023/02/17/local-government-content-discovery-week-6.html" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-02-17T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Local government content discovery – week 6" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"matt"},"dateModified":"2023-02-17T00:00:00+00:00","datePublished":"2023-02-17T00:00:00+00:00","description":"Our focus for this week has primarily been around building a prototype for the “check if you qualify for money off your council tax” and “apply for money off your council tax” journeys.","headline":"Local government content discovery – week 6","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2023/02/17/local-government-content-discovery-week-6.html"},"url":"http://localhost:4000/2023/02/17/local-government-content-discovery-week-6.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <nav>
+  
+    <a href="/">Home</a>
+  
+    <a href="/notes.html">Notes</a>
+  
+</nav>
+    <h1>Local government content discovery – week 6</h1>
+
+<p>
+
+  17 Feb 2023
+  
+  
+    - <a href="/authors/matt.html">Matt Lucht</a>
+  
+</p>
+
+<p>Our focus for this week has primarily been around building a prototype for the “check if you qualify for money off your council tax” and “apply for money off your council tax” journeys.</p>
+
+<h2 id="mapping-out-the-flows">Mapping out the flows</h2>
+
+<p>The user journey flows that we started last week were based on an amalgamation of some existing forms used by each of the four local authorities. This gave us a good baseline to work from and helped frame a conversation to validate the purpose of each question.</p>
+
+<p>Working with Steph, our council tax subject matter expert, we were able to clarify why certain questions were needed and importantly we were able to remove some complexity by dropping questions that weren’t really required.</p>
+
+<p>If we were doing this work as a part of an actual council tax transformation project we could have spent a lot more time on this and within the journeys we’ve looked at there’s definitely some complexity that we’ve purposely put aside. Maybe it’s something for the future!</p>
+
+<h2 id="co-designing-the-content">Co-designing the content</h2>
+
+<p>With a good understanding of what information was needed from a user our next step was to figure out the order in which to ask for that information and how to best phrase those questions. As we mentioned last week, the goal was to only ask for information that’s actually needed, no nice-to-have stuff, and to ask for the information in such a way that we’d be able to determine someone’s eligibility as early on in the journey as possible.</p>
+
+<p>Gwen led a content co-design session with Carolyn, Louise, Tom and Adrián.</p>
+
+<p>The conversation really highlighted the nuances around seemingly simple things like how to determine the number of people living at a property.</p>
+
+<p>There was also the matter of how to ask about potentially sensitive circumstances such as when someone has recently died or when someone has separated from a partner.</p>
+
+<p><img src="/assets/images/content-flows.png" alt="A screenshot of our content flows for the council tax prototype" /></p>
+
+<p>There are definitely some bits to the journey where we still have questions, but the beauty of working in a fast and iterative way is that we don’t need to solve all the problems at once, we’ll learn through testing and figure out what needs to change. Don’t let <a href="https://en.m.wikipedia.org/wiki/Perfect_is_the_enemy_of_good">perfect be the enemy of good</a> and all that!</p>
+
+<h2 id="building-the-prototype">Building the prototype</h2>
+
+<p>As the questions and flows started to take shape we were able to begin building out the prototype.</p>
+
+<p>We wanted the prototype to be available online so that we could put it in front of potential users and just ‘real enough’ that it was something that people could relate to.</p>
+
+<p>There are some harsh edges to the prototype which has allowed us to keep it focused on the part of the journey we’re working on. If it’s useful and if there’s appetite to do more work on council tax journeys the prototype can easily be extended.</p>
+
+<p><img src="/assets/images/council-tax-prototype.gif" alt="An animated gif of the council tax prototype" /></p>
+
+<p>Some minor tweaks aside, it’s in a good place to start testing with users. To avoid any spoilers to potential research participants we’ll share a link to the prototype after the next round of research.</p>
+
+<h3 id="prototyping-toolkits">Prototyping toolkits</h3>
+
+<p>There are lots of different tools that can be used to help with prototyping. For our purpose we opted to use a modified version of the <a href="https://prototype-kit.service.gov.uk/docs/">GOVUK prototype toolkit</a>. Our rationale for using this was:</p>
+
+<ul>
+  <li>the user interaction pattern for question branching (aka smart answers) has been tested many times over with users</li>
+  <li>it’s well documented and there’s an active community of people using and maintaining the toolkit</li>
+  <li>it’s easy to host somewhere online (we’ve used Render)</li>
+  <li>there’s been extensive browser and device testing, so a reduced risk of web browser quirk tripping you up during user testing</li>
+  <li>it’s possible to do some subtle re-theming</li>
+</ul>
+
+<p>On the point of re-theming, we made use of the modified toolkit from the Learn by making project. It’s open source and available in a <a href="https://github.com/learnbymakingwales/lbm-prototype-kit">public code repository</a> — another win for working in the open.</p>
+
+<p>We’ve made the code for the council tax prototype open too, so having said that we won’t share the URL to the clickable prototype just yet, if you really want to take a look <a href="https://github.com/learnbymakingwales/council-tax-prototype">under the hood</a> here you go!</p>
+
+  </body>
+</html>
