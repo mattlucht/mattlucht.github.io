@@ -1,5 +1,5 @@
 ---
-title: "Local government content design discovery"
+title: "Introducing the local government content design discovery project"
 author: matt
 ---
 
