@@ -29,14 +29,15 @@ Local authorities are responsible for so much and often need to react quickly to
 ### Accessibility
 The websites tend to become a holding ground for information with large .pdf documents uploaded. Often the .pdf documents were written for internal use and contain language that isn’t familiar to users outside of the local authority. Along with the complexity of the language (more on that later), there is also a concern that .pdf documents are not accessible to all users. 
 
-## Receptacles
+## Council speak
 Something we heard when speaking with folk within the local authorities was how there's a tendency for "council-speak" to creep into the web content.
 
 It's easy to see that when your day-to-day involves working with lots of legal and policy documents how that language can start to feel normal. But most people probably wouldn't know that a "waste receptacle" is a "bin" or that "apply to be disregarded" means "apply for a council tax discount".
 
 There is a bit of a disconnect between users and people writing for services, but it’s an area that we can explore and try to help with.
 
-## A call for help!
+## A call for help!
+
 Over the next few weeks we are going to focus more on the area of council tax. We’ll be running user research sessions to observe how users interact with the current service and based on what we learn we’ll aim to prototype some alternative approaches.
 
 We’re exploring a few different avenues to find people to speak with, but if anyone can help with that we’d greatly appreciate it.
