@@ -3,7 +3,9 @@ title: "Wrapping up the local government content design discovery project"
 author: matt
 ---
 
-On 9 January we kicked off the 'local government content discovery' project. The project was funded by the Local Government Digital Transformation Fund, and managed by the [Welsh Local Government Association](https://www.wlga.wales/home). The project was led by [Blaenau Gwent](https://www.blaenau-gwent.gov.uk/en/home/) Council alongside 3 other local authorities – [Newport](https://www.newport.gov.uk/splash-homepage.aspx), [Monmouthshire](https://www.monmouthshire.gov.uk/) and [Torfaen](https://www.torfaen.gov.uk/en/Home.aspx) – and supported by the [Centre for Digital Public Services](https://digitalpublicservices.gov.wales/).
+On 9 January we kicked off the 'local government content discovery' project. The project was funded by the Local Government Digital Transformation Fund, and managed by the [Welsh Local Government Association](https://www.wlga.wales/home).
+
+The project was led by [Blaenau Gwent](https://www.blaenau-gwent.gov.uk/en/home/) Council alongside 3 other local authorities – [Newport](https://www.newport.gov.uk/splash-homepage.aspx), [Monmouthshire](https://www.monmouthshire.gov.uk/) and [Torfaen](https://www.torfaen.gov.uk/en/Home.aspx) – and supported by the [Centre for Digital Public Services](https://digitalpublicservices.gov.wales/).
 
 A few weeks ago I [wrote a blog post](https://mattlucht.github.io/2023/02/01/local-government-content-design-discovery.html) about why the project came about, and the approach that we were taking with the discovery. Now as we near the end of this phase of the project we want to tell you about what we've learned and provide recommendations for moving into alpha.
 
