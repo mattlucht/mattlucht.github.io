@@ -1,5 +1,5 @@
 ---
-title: "Local government content discovery – week 7"
+title: "Local government content discovery – week 9"
 author: matt
 ---
 So this is it. The end of our final week of discovery. It’s safe to say that the past 9 weeks have flown by.

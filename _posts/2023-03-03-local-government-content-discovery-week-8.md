@@ -1,5 +1,5 @@
 ---
-title: "Local government content discovery – week 7"
+title: "Local government content discovery – week 8"
 author: matt
 ---
 This was our 2nd to last week on this phase of the project. It's fair to say that the past 8 weeks have flown by! We've started to shift our mindset from 'making' to ‘reflection’.

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-14T10:43:24-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Team day</title><link href="http://localhost:4000/2025/08/07/team-day.html" rel="alternate" type="text/html" title="Team day" /><published>2025-08-07T00:00:00-04:00</published><updated>2025-08-07T00:00:00-04:00</updated><id>http://localhost:4000/2025/08/07/team-day</id><content type="html" xml:base="http://localhost:4000/2025/08/07/team-day.html"><![CDATA[<p>Last week, <a href="https://design-history.prevention-services.nhs.uk/screening-invite/">team Invite</a> got together for a bit of team building and to talk about our evolving remit.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-14T11:02:58-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Team day</title><link href="http://localhost:4000/2025/08/07/team-day.html" rel="alternate" type="text/html" title="Team day" /><published>2025-08-07T00:00:00-04:00</published><updated>2025-08-07T00:00:00-04:00</updated><id>http://localhost:4000/2025/08/07/team-day</id><content type="html" xml:base="http://localhost:4000/2025/08/07/team-day.html"><![CDATA[<p>Last week, <a href="https://design-history.prevention-services.nhs.uk/screening-invite/">team Invite</a> got together for a bit of team building and to talk about our evolving remit.</p>
 
 <p>As a team who are located all across the country, it’s the first time since I joined the project that we’ve all been able to get together in person.</p>
 
@@ -143,7 +143,84 @@
   <li>increase the sample size of local planning requirements so that we can be more confident around emerging findings</li>
   <li>start thinking about an approach for making this information more open and available for others to view and use</li>
   <li>to help with the analysis we gathered a list of local area requirements from all local planning authorities. Its very much a snapshot in time but we plan to publish it as a dataset on planning.data.gov.uk</li>
-</ul>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[This was originally posted on the Digtial Land blog]]></summary></entry><entry><title type="html">Local government content discovery – week 7</title><link href="http://localhost:4000/2023/03/10/local-government-content-discovery-week-9.html" rel="alternate" type="text/html" title="Local government content discovery – week 7" /><published>2023-03-10T00:00:00-04:00</published><updated>2023-03-10T00:00:00-04:00</updated><id>http://localhost:4000/2023/03/10/local-government-content-discovery-week-9</id><content type="html" xml:base="http://localhost:4000/2023/03/10/local-government-content-discovery-week-9.html"><![CDATA[<p>So this is it. The end of our final week of discovery. It’s safe to say that the past 9 weeks have flown by.</p>
+</ul>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[This was originally posted on the Digtial Land blog]]></summary></entry><entry><title type="html">Wrapping up the local government content design discovery project</title><link href="http://localhost:4000/2023/03/11/wrapping-up-the-content-discovery-project.html" rel="alternate" type="text/html" title="Wrapping up the local government content design discovery project" /><published>2023-03-11T00:00:00-04:00</published><updated>2023-03-11T00:00:00-04:00</updated><id>http://localhost:4000/2023/03/11/wrapping-up-the-content-discovery-project</id><content type="html" xml:base="http://localhost:4000/2023/03/11/wrapping-up-the-content-discovery-project.html"><![CDATA[<p>On 9 January we kicked off the ‘local government content discovery’ project. The project was funded by the Local Government Digital Transformation Fund, and managed by the <a href="https://www.wlga.wales/home">Welsh Local Government Association</a>. The project was led by <a href="https://www.blaenau-gwent.gov.uk/en/home/">Blaenau Gwent</a> Council alongside 3 other local authorities – <a href="https://www.newport.gov.uk/splash-homepage.aspx">Newport</a>, <a href="https://www.monmouthshire.gov.uk/">Monmouthshire</a> and <a href="https://www.torfaen.gov.uk/en/Home.aspx">Torfaen</a> – and supported by the <a href="https://digitalpublicservices.gov.wales/">Centre for Digital Public Services</a>.</p>
+
+<p>A few weeks ago I <a href="https://mattlucht.github.io/2023/02/01/local-government-content-design-discovery.html">wrote a blog post</a> about why the project came about, and the approach that we were taking with the discovery. Now as we near the end of this phase of the project we want to tell you about what we’ve learned and provide recommendations for moving into alpha.</p>
+
+<h2 id="a-quick-recap">A quick recap</h2>
+<p>It was recognised that local authorities are struggling with creating, publishing and maintaining content across the services that they provide to their residents.</p>
+
+<p>We wanted to demonstrate the impact that this was causing, and explore opportunities to do things differently.</p>
+
+<p>We wanted to use a real-life example as we believed that would provide the biggest impact. We chose council tax as a case study, specifically looking at <a href="https://www.gov.wales/council-tax-discounts-and-reduction/living-alone">single Person discounts</a> and <a href="https://www.gov.wales/council-tax-discounts-and-reduction/students">student exemptions</a>.</p>
+
+<h2 id="hearing-from-users">Hearing from users</h2>
+<p>In our first round of user research we spoke with 4 users from across each of the local authorities to learn about their experiences with using the existing council tax service.</p>
+
+<p>It was particularly interesting hearing from users who had recently moved into a new property and how they went about setting up their council tax payments. We saw that when trying to apply online there was often the need to speak to someone at the local authority via email or telephone so that they could clarify details or find out the status of their council tax query.</p>
+
+<p>It’s worth highlighting again that the goal of this discovery wasn’t to transform the council tax service, but to identify where a better approach to content design could help improve existing services.</p>
+
+<h3 id="what-we-learnt-about-the-existing-services">What we learnt about the existing services</h3>
+<p>During the user research sessions we asked participants to find out if they qualified for either a single person discount or a student exemption.</p>
+
+<p>While some users were able to complete this task, we saw that it took alot of navigating around the local authority websites which often left them feeling the need to speak to somebody within the local authority to check.</p>
+
+<blockquote>
+  <p>“…i’m stressed. If I feel like this and it’s not for real, what would a person be like if they didn’t have the ability to do this and they needed to get the application in by a certain period”</p>
+</blockquote>
+
+<p>We found that the language on the website was unfamiliar with users and caused confusion and uncertainty. We’ve talked about this in previous weeknotes as <a href="https://mattlucht.github.io/2023/01/20/local-government-content-discovery-week-2.html#council-speak">‘council speak’</a>.</p>
+
+<blockquote>
+  <p>“I think we’ve got to the bit we’re talking about, but ‘disregarded’ that’s a strange word in my vocabulary”</p>
+</blockquote>
+
+<blockquote>
+  <p>“…once you’ve used the council website a couple of times you get to start thinking like they think”</p>
+</blockquote>
+
+<p>It was clear that the users often relied on the support and assistance of others to help them complete tasks online and they expressed concerns that if that support wasn’t available then they’d really struggle.</p>
+
+<blockquote>
+  <p>“…because if [redacted] died, I’d be in real trouble because I wouldn’t know what I was doing on this computer”</p>
+</blockquote>
+
+<h2 id="demonstrating-improvements">Demonstrating improvements</h2>
+
+<h3 id="building-a-prototype">Building a prototype</h3>
+<p>Based on what we’d learned from the initial round of user research we wanted to explore whether we were able to improve the service through the use of clearer language, and an approach of guiding users through the service to help them understand whether they qualified for a discount or not.</p>
+
+<p>The <a href="https://docs.publishing.service.gov.uk/repos/smart-answers.html">smart answers design pattern from GOV.UK</a> felt like a good approach and something worth testing.</p>
+
+<p>We’ve recorded a demo of the prototype that you can watch here: https://www.youtube.com/watch?v=qKrvTTYN9PQ</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qKrvTTYN9PQ?si=jlrDHDi4I2MmMLIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<h3 id="testing-a-prototype">Testing a prototype</h3>
+<p>After building the prototype we ran a 2nd round of user research to help us learn whether this approach might overcome some of the challenges we identified with the service.</p>
+
+<p>We tested the prototype with 6 users and we received positive feedback from each of the sessions. When asking them to test the same scenarios as the first round of user testing, all were able to confidently complete the journeys.</p>
+
+<blockquote>
+  <p>“that was quite straightforward”</p>
+</blockquote>
+
+<p>However, there is still room for improvement. By quickly prototyping and testing we were able to see where there were opportunities to further refine the content and add greater clarification. We also learned more about the service from speaking to real users, this information would be critical for a council tax transformation project.</p>
+
+<blockquote>
+  <p>“…maybe there’s a reason for this step, but it feels a bit bureaucratic”</p>
+</blockquote>
+
+<p>You can find the <a href="https://mattlucht.github.io/2023/03/03/local-government-content-discovery-week-8.html#testing-the-prototype-with-users">high-level findings</a> from this round of user research in our weeknotes.</p>
+
+<h3 id="iterating-the-prototype">Iterating the prototype</h3>
+<p>With real users testing our prototype, we could see where we could further iterate on some of the steps and content. Due to time constraints we’ve not been able to take this into another round of user testing, but we feel it would be great if work could continue in this area after this phase of the project finishes.</p>
+
+<h3 id="our-recommendations">Our recommendations</h3>
+<p>We’ll be writing one more blog post that summaries our recommendations for next steps.</p>
+
+<p><img src="/assets/images/council-tax-prototype.gif" alt="An animated gif of the council tax prototype" /></p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[On 9 January we kicked off the ‘local government content discovery’ project. The project was funded by the Local Government Digital Transformation Fund, and managed by the Welsh Local Government Association. The project was led by Blaenau Gwent Council alongside 3 other local authorities – Newport, Monmouthshire and Torfaen – and supported by the Centre for Digital Public Services.]]></summary></entry><entry><title type="html">Local government content discovery – week 9</title><link href="http://localhost:4000/2023/03/10/local-government-content-discovery-week-9.html" rel="alternate" type="text/html" title="Local government content discovery – week 9" /><published>2023-03-10T00:00:00-04:00</published><updated>2023-03-10T00:00:00-04:00</updated><id>http://localhost:4000/2023/03/10/local-government-content-discovery-week-9</id><content type="html" xml:base="http://localhost:4000/2023/03/10/local-government-content-discovery-week-9.html"><![CDATA[<p>So this is it. The end of our final week of discovery. It’s safe to say that the past 9 weeks have flown by.</p>
 
 <p>Our focus for this week has been around reflecting on what we’ve done, and wrapping things up to ensure that we don’t lose what we’ve learnt.</p>
 
@@ -210,7 +287,7 @@
 
 <h2 id="thank-you">Thank you</h2>
 
-<p>Finally, thank you to everyone who participated in this discovery. From folk within the 4 local authorities, residents who gave their time to participate in user research sessions, to everyone who attended show and tells and gave us feedback along the way.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[So this is it. The end of our final week of discovery. It’s safe to say that the past 9 weeks have flown by.]]></summary></entry><entry><title type="html">Local government content discovery – week 7</title><link href="http://localhost:4000/2023/03/03/local-government-content-discovery-week-8.html" rel="alternate" type="text/html" title="Local government content discovery – week 7" /><published>2023-03-03T00:00:00-04:00</published><updated>2023-03-03T00:00:00-04:00</updated><id>http://localhost:4000/2023/03/03/local-government-content-discovery-week-8</id><content type="html" xml:base="http://localhost:4000/2023/03/03/local-government-content-discovery-week-8.html"><![CDATA[<p>This was our 2nd to last week on this phase of the project. It’s fair to say that the past 8 weeks have flown by! We’ve started to shift our mindset from ‘making’ to ‘reflection’.</p>
+<p>Finally, thank you to everyone who participated in this discovery. From folk within the 4 local authorities, residents who gave their time to participate in user research sessions, to everyone who attended show and tells and gave us feedback along the way.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[So this is it. The end of our final week of discovery. It’s safe to say that the past 9 weeks have flown by.]]></summary></entry><entry><title type="html">Local government content discovery – week 8</title><link href="http://localhost:4000/2023/03/03/local-government-content-discovery-week-8.html" rel="alternate" type="text/html" title="Local government content discovery – week 8" /><published>2023-03-03T00:00:00-04:00</published><updated>2023-03-03T00:00:00-04:00</updated><id>http://localhost:4000/2023/03/03/local-government-content-discovery-week-8</id><content type="html" xml:base="http://localhost:4000/2023/03/03/local-government-content-discovery-week-8.html"><![CDATA[<p>This was our 2nd to last week on this phase of the project. It’s fair to say that the past 8 weeks have flown by! We’ve started to shift our mindset from ‘making’ to ‘reflection’.</p>
 
 <h2 id="testing-the-prototype-with-users">Testing the prototype with users</h2>
 
@@ -421,92 +498,4 @@
 <h2 id="exploring-options-for-prototyping">Exploring options for prototyping</h2>
 <p>We’re delighted that <a href="https://www.linkedin.com/in/lcollinsdesigner">Liam Collins</a> has joined the team to help us with the prototyping side of things. Our goal is to have something that we can spin up pretty quickly and is easy to update. The prototype doesn’t need to be super high fidelity, but enough that we can test the content the journey flows with users.</p>
 
-<p>Our instinct is that the <a href="https://docs.publishing.service.gov.uk/repos/smart-answers.html">GOV.UK smart answers</a> are a good candidate for experimenting with. Liam has been looking at options for hosting a version of the GOVUK prototype toolkit that we can subtly re-theme.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[It’s been a busy couple of weeks. So much so that I completely forgot to publish the week 4 notes and left them sat in draft. This week’s update will cover the past two weeks]]></summary></entry><entry><title type="html">Local government content design discovery</title><link href="http://localhost:4000/2023/02/01/local-government-content-design-discovery.html" rel="alternate" type="text/html" title="Local government content design discovery" /><published>2023-02-01T00:00:00-04:00</published><updated>2023-02-01T00:00:00-04:00</updated><id>http://localhost:4000/2023/02/01/local-government-content-design-discovery</id><content type="html" xml:base="http://localhost:4000/2023/02/01/local-government-content-design-discovery.html"><![CDATA[<p>Over the past 6 weeks <a href="https://www.blaenau-gwent.gov.uk/">Blaenau Gwent County Council</a>, <a href="https://www.newport.gov.uk/en/Home.aspx">Newport City Council</a>, <a href="https://www.monmouthshire.gov.uk/">Monmouthshire County Council</a> and <a href="https://www.torfaen.gov.uk/intro-splash.aspx">Torfaen County Council</a> have run a content design discovery project funded by the Welsh Local Government Association, and the project is being supported by the <a href="https://digitalpublicservices.gov.wales/">Centre for Digital Public Services</a>.</p>
-
-<p>If we’re being honest, it’s probably a bit of a ‘discovery+’ or a ‘discovery/alpha hybrid’.</p>
-
-<p>We’re pretty confident that there was a problem to solve, but we wanted an alternative approach to highlighting the issue beyond yet another report, and we wanted to showcase the real-life problems citizens are experiencing with our content.</p>
-
-<h2 id="so-whats-the-problem">So, what’s the problem?</h2>
-
-<p>The local authorities have a shared problem in that content, both online and through other channels, isn’t being managed as effectively or as efficiently as it could be.</p>
-
-<p>Content is often put online in a siloed fashion, with teams organised around departments rather than their end-to-end services, leading to language and terminology inconsistencies.</p>
-
-<p>With pressure to make sure the latest information is published, the idea of managing the content lifecycle and retiring old or out-of-date content is often missed, leading to content becoming confusing or difficult to navigate.</p>
-
-<p>Much of this problem is due to legacy ways of working, and not forgetting  the need to manage a tremendous amount of information with increasingly tight deadlines and limited resources.</p>
-
-<p>Content is often written by subject matter experts and while factually accurate, it’s written from an internal perspective. Things referred to as <a href="https://mattlucht.github.io/2023/01/20/local-government-content-discovery-week-2.html#council-speak">“Council speak”</a> would find their way onto websites to describe or name services, without realising that citizens do not describe the service the same way or use that language in everyday life.</p>
-
-<h2 id="goals-of-the-discovery">Goals of the discovery</h2>
-<p>The problems outlined above aren’t new and have been acknowledged in previous service improvement reports. But with many pressures faced by local authorities it’s not been possible to prioritise making those changes. And it’s sometimes difficult to fully grasp the impact changing language can have on residents.</p>
-
-<p>During this discovery we wanted to focus on 2 angles to try and highlight the importance of good content design and to try and raise its priority within the backlog of work.</p>
-
-<ol>
-  <li>
-    <p><strong>Saying that there is a problem is one thing, but observing users experience problems is incredibly powerful.</strong> We wanted to demonstrate the real-life impact that poor content design is having on existing services and how in a relatively short amount of time some small changes could have a positive impact on the experience of users.</p>
-  </li>
-  <li>
-    <p><strong>Identify some practical changes that can be made with the existing teams that are in place.</strong> Hiring a team of content strategists, designers and user researchers might seem like the obvious way to improve things, but in reality even if the funding was available to do this there needs to be a willingness across the organisation to work in a different way. By introducing some small changes we hope that this will start to seed that change.</p>
-  </li>
-</ol>
-
-<h2 id="what-have-we-done-so-far">What have we done so far?</h2>
-
-<p>We’re 6 weeks into the discovery and have a further 3 weeks remaining. Here’s where we’ve got to so far.</p>
-
-<h3 id="demonstrating-the-real-life-impact">Demonstrating the real-life impact</h3>
-
-<p>The number of services that a local authority is responsible for is vast – and this contributes to the problem. We needed to pick a single area to focus on and after some conversations across the 4 local authorities, reviewing some of the web analytics and contact centre data, and with a bit of gut instinct thrown in as well, we decided to look into the area of council tax.</p>
-
-<p>It’s worth noting that we chose council tax not because it was especially bad, but because it was an area with significant complexity in terms of the language used, it was a subject area that was reasonably well understood across the team, it was fairly uniform across all local authorities, and is a service that almost all residents will have to interact with at some point.</p>
-
-<h3 id="hearing-from-users">Hearing from users</h3>
-
-<p>To understand how the council tax service was currently performing we held a number of user research sessions with residents from across each of the local authority areas.</p>
-
-<p>We wanted to demonstrate what it was really like for someone to use the service. Some of what we saw and heard really gave an eye-opening appreciation for how some things that might be considered quite straightforward were actually a significant challenge for many users.</p>
-
-<p><img src="/assets/images/user-testing-bitter-sweet-sorrow.jpg" alt="A Paul Downey posto-it note about user research being such sweet sorrow" /></p>
-
-<h3 id="building-a-prototype">Building a prototype</h3>
-<p>Armed with evidence from users we set out to build something (a prototype) to demonstrate how an alternative approach might better meet the needs of users.</p>
-
-<p>We only had a little over a week to get the prototype up and running, so had to hold ourselves back from getting too sucked into the details. We also had to remind ourselves that this wasn’t intended to be a full ‘council tax service transformation project’ but focused on how to improve the content design aspects. With that in mind we looked at 2 high-level user needs and purposefully added some hard edges to the user journeys.</p>
-
-<p>The user needs we looked at were:</p>
-
-<p><strong>As a</strong> person who lives alone</p>
-
-<p><strong>I want to</strong> check whether I qualify for a council tax discount</p>
-
-<p><strong>So that</strong> I can reduce my council tax bill</p>
-
-<p>And;</p>
-
-<p><strong>As a</strong> full-time student</p>
-
-<p><strong>I want to</strong> check whether I qualify for an exemption on paying council tax</p>
-
-<p><strong>So that</strong> I can lower my monthly outgoings</p>
-
-<p>We were keen to make the prototype design as collaborative as possible. We started with a <a href="https://mattlucht.github.io/2023/02/10/local-government-content-discovery-week-4-and-5.html#getting-together-in-newport">one-day workshop</a> where we met in Newport to discuss and prioritise user needs. We also held a <a href="https://mattlucht.github.io/2023/02/17/local-government-content-discovery-week-6.html#co-designing-the-content">content co-design session</a> where we explored various ways of phrasing questions to get the right information from users.</p>
-
-<p><img src="/assets/images/council-tax-prototype.gif" alt="An animated gif of the council tax prototype" /></p>
-
-<p>We’re pretty happy with where we got to, we checked it over with subject matter experts and have a prototype that is <a href="https://mattlucht.github.io/2023/02/17/local-government-content-discovery-week-6.html#building-the-prototype">now good enough</a> to start some user testing.</p>
-
-<h2 id="whats-up-next">What’s up next?</h2>
-
-<h3 id="testing-the-prototype">Testing the prototype</h3>
-
-<p>Over the next week and a half we’ll be testing the prototype with more residents across the local authorities. We’ve 9 sessions lined up with people with a good mix of experience using digital services.</p>
-
-<h3 id="good-practice-and-next-steps">Good practice and next steps</h3>
-<p>Through looking at the council tax service we’ve learned a lot about the <a href="https://mattlucht.github.io/2023/01/20/local-government-content-discovery-week-2.html#speaking-with-users">current content creation workflow</a> and where there are challenges, bottlenecks and opportunities to do things differently.</p>
-
-<p>We’ll be writing a mixture of best practice guides and templates for things like establishing user needs, content request forms, how to gather feedback on a service and how to measure the effectiveness of content.</p>
-
-<p>We’ll also be proposing recommendations for continuing this work into an alpha (or perhaps a series of alphas).</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[Over the past 6 weeks Blaenau Gwent County Council, Newport City Council, Monmouthshire County Council and Torfaen County Council have run a content design discovery project funded by the Welsh Local Government Association, and the project is being supported by the Centre for Digital Public Services.]]></summary></entry></feed>
+<p>Our instinct is that the <a href="https://docs.publishing.service.gov.uk/repos/smart-answers.html">GOV.UK smart answers</a> are a good candidate for experimenting with. Liam has been looking at options for hosting a version of the GOVUK prototype toolkit that we can subtly re-theme.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[It’s been a busy couple of weeks. So much so that I completely forgot to publish the week 4 notes and left them sat in draft. This week’s update will cover the past two weeks]]></summary></entry></feed>
