@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-25T14:04:10+01:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Learning about clinical assurance</title><link href="http://localhost:4000/2025/08/25/learning-about-clinical-assurance.html" rel="alternate" type="text/html" title="Learning about clinical assurance" /><published>2025-08-25T14:04:10+01:00</published><updated>2025-08-25T14:04:10+01:00</updated><id>http://localhost:4000/2025/08/25/learning-about-clinical-assurance</id><content type="html" xml:base="http://localhost:4000/2025/08/25/learning-about-clinical-assurance.html"><![CDATA[<p>This week we’ve had some really good conversations around <a href="https://www.england.nhs.uk/long-read/digital-clinical-safety-assurance/">clinical assurance</a>, so I’m writing this post to share some of what we discussed, mostly to help me organise my thoughts, but hopefully it’ll be useful for others too. It may get a bit wordy!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-25T14:22:23+01:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Learning about clinical assurance</title><link href="http://localhost:4000/2025/08/23/learning-about-clinical-assurance.html" rel="alternate" type="text/html" title="Learning about clinical assurance" /><published>2025-08-23T00:00:00+01:00</published><updated>2025-08-23T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/23/learning-about-clinical-assurance</id><content type="html" xml:base="http://localhost:4000/2025/08/23/learning-about-clinical-assurance.html"><![CDATA[<p>This week we’ve had some really good conversations around <a href="https://www.england.nhs.uk/long-read/digital-clinical-safety-assurance/">clinical assurance</a>, so I’m writing this post to share some of what we discussed, mostly to help me organise my thoughts, but hopefully it’ll be useful for others too. It may get a bit wordy!</p>
 
 <p>Since joining NHS England one of the steepest learning curves has been around understanding what needs to be done to meet clinical assurance standards. There’s also another aspect, solution (or technical) assurance, but that’s something for another day.</p>
 
@@ -79,17 +79,7 @@
 
 <h2 id="were-getting-better-but-theres-more-to-do">We’re getting better, but there’s more to do!</h2>
 
-<p>In summary, the more that we’re working together, the better the process is becoming. There are definitely still things that we can improve, but in understanding the clinical assurance needs better, and talking openly about our collective ways of working, we’re finding ways through the sticking points.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[This week we’ve had some really good conversations around clinical assurance, so I’m writing this post to share some of what we discussed, mostly to help me organise my thoughts, but hopefully it’ll be useful for others too. It may get a bit wordy!]]></summary></entry><entry><title type="html">Reporting</title><link href="http://localhost:4000/2025/08/21/reporting.html" rel="alternate" type="text/html" title="Reporting" /><published>2025-08-21T17:40:23+01:00</published><updated>2025-08-21T17:40:23+01:00</updated><id>http://localhost:4000/2025/08/21/reporting</id><content type="html" xml:base="http://localhost:4000/2025/08/21/reporting.html"><![CDATA[<p>Often times on a project where you’re building a product or a service I find some of the most contensious conversations to be around the reporting requirements. Particularly when its something new its often not clear on what is needed and there’s a tempatation to want all the things.</p>
-
-<p>I think that there are a few things that can help:</p>
-
-<ol>
-  <li>be really clear on the data you have and what that data means</li>
-  <li>eggs not cakes</li>
-  <li>outcomes</li>
-</ol>
-
-<p>ssasas</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[Often times on a project where you’re building a product or a service I find some of the most contensious conversations to be around the reporting requirements. Particularly when its something new its often not clear on what is needed and there’s a tempatation to want all the things.]]></summary></entry><entry><title type="html">Team day</title><link href="http://localhost:4000/2025/08/07/team-day.html" rel="alternate" type="text/html" title="Team day" /><published>2025-08-07T00:00:00+01:00</published><updated>2025-08-07T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/07/team-day</id><content type="html" xml:base="http://localhost:4000/2025/08/07/team-day.html"><![CDATA[<p>Last week, <a href="https://design-history.prevention-services.nhs.uk/screening-invite/">team Invite</a> got together for a bit of team building and to talk about our evolving remit.</p>
+<p>In summary, the more that we’re working together, the better the process is becoming. There are definitely still things that we can improve, but in understanding the clinical assurance needs better, and talking openly about our collective ways of working, we’re finding ways through the sticking points.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[This week we’ve had some really good conversations around clinical assurance, so I’m writing this post to share some of what we discussed, mostly to help me organise my thoughts, but hopefully it’ll be useful for others too. It may get a bit wordy!]]></summary></entry><entry><title type="html">Team day</title><link href="http://localhost:4000/2025/08/07/team-day.html" rel="alternate" type="text/html" title="Team day" /><published>2025-08-07T00:00:00+01:00</published><updated>2025-08-07T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/07/team-day</id><content type="html" xml:base="http://localhost:4000/2025/08/07/team-day.html"><![CDATA[<p>Last week, <a href="https://design-history.prevention-services.nhs.uk/screening-invite/">team Invite</a> got together for a bit of team building and to talk about our evolving remit.</p>
 
 <p>As a team who are located all across the country, it’s the first time since I joined the project that we’ve all been able to get together in person.</p>
 
@@ -563,4 +553,38 @@
 
 <h2 id="final-show-and-tell">Final show and tell</h2>
 
-<p>Next week we’ll be holding our final show and tell on 9 March. We’ll provide an overview of what we did during the discovery, show findings from the user research, and talk through our recommendations for moving into alpha.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[This was our 2nd to last week on this phase of the project. It’s fair to say that the past 8 weeks have flown by! We’ve started to shift our mindset from ‘making’ to ‘reflection’.]]></summary></entry></feed>
+<p>Next week we’ll be holding our final show and tell on 9 March. We’ll provide an overview of what we did during the discovery, show findings from the user research, and talk through our recommendations for moving into alpha.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[This was our 2nd to last week on this phase of the project. It’s fair to say that the past 8 weeks have flown by! We’ve started to shift our mindset from ‘making’ to ‘reflection’.]]></summary></entry><entry><title type="html">Local government content discovery – week 7</title><link href="http://localhost:4000/2023/02/24/local-government-content-discovery-week-7.html" rel="alternate" type="text/html" title="Local government content discovery – week 7" /><published>2023-02-24T00:00:00+00:00</published><updated>2023-02-24T00:00:00+00:00</updated><id>http://localhost:4000/2023/02/24/local-government-content-discovery-week-7</id><content type="html" xml:base="http://localhost:4000/2023/02/24/local-government-content-discovery-week-7.html"><![CDATA[<p>When we were planning out the work for scoping and building the council tax prototype we gave ourselves a couple of weeks for this work. However, we managed to get that everything we wanted to do wrapped up a bit quicker, this meant that over the past week we’ve had a slight change of focus ahead of a busy week 8 of user testing.</p>
+
+<h2 id="documenting-what-weve-done">Documenting what we’ve done</h2>
+
+<p>At the start of discovery one of the goals we set ourselves was to identify opportunities for practical changes to the ways of working within the local authorities when it comes to content workflows.</p>
+
+<p>This week we were able to reflect on what we’ve learnt over the past 6 weeks and started gathering our thoughts on some proposed changes as well as recommendations for alpha.</p>
+
+<h3 id="gathering-feedback">Gathering feedback</h3>
+
+<p>Capturing user feedback from the website was something that came up during a few conversations. We’ve written up a guide for how to collect feedback along with some tips for how to analyse and use what you’ve learnt.</p>
+
+<p>We’ve also created a template form with ideas for questions that might be useful to ask.</p>
+
+<h3 id="prioritising-content-against-user-needs">Prioritising content against user needs</h3>
+
+<p>Another challenge that we heard from each of the local authorities was that content was often added to the website without any consideration for its purpose.</p>
+
+<p>We’ve written some guidelines for how and why a content request process might help to introduce thinking about what user needs are being met by new content being added to the website and to prioritising the work.</p>
+
+<h3 id="extending-the-prototype">Extending the prototype</h3>
+
+<p>We want to make sure that the prototype is able to live on past this phase of the project. All of the code is open source and lives in a public GitHub repository.</p>
+
+<p>We’ve started writing up some high level instructions for how to spin up your version of the prototype and how to make changes to it.</p>
+
+<h2 id="preparing-for-testing-the-prototype">Preparing for testing the prototype</h2>
+
+<p>Next week we’ll be focusing on testing the prototype. We’ve got 9 sessions scheduled with residents across each of the 4 local authorities.</p>
+
+<p>Whilst you can’t really hear from too many users 9 sessions is probably more than we’d normally expect to run at this stage, but given our time constraints this allows us to account for any potential ‘no shows’ or last minute cancellations.</p>
+
+<h2 id="blogging-about-what-weve-done">Blogging about what we’ve done</h2>
+
+<p>We’ve written a short blog post that describes why this discovery project came about and how we’ve gone about tackling the problem.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[When we were planning out the work for scoping and building the council tax prototype we gave ourselves a couple of weeks for this work. However, we managed to get that everything we wanted to do wrapped up a bit quicker, this meant that over the past week we’ve had a slight change of focus ahead of a busy week 8 of user testing.]]></summary></entry></feed>
