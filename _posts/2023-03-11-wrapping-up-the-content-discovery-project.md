@@ -7,7 +7,7 @@ On 9 January we kicked off the 'local government content discovery' project. The
 
 The project was led by [Blaenau Gwent](https://www.blaenau-gwent.gov.uk/en/home/) Council alongside 3 other local authorities – [Newport](https://www.newport.gov.uk/splash-homepage.aspx), [Monmouthshire](https://www.monmouthshire.gov.uk/) and [Torfaen](https://www.torfaen.gov.uk/en/Home.aspx) – and supported by the [Centre for Digital Public Services](https://digitalpublicservices.gov.wales/).
 
-A few weeks ago I [wrote a blog post](https://mattlucht.github.io/2023/02/01/local-government-content-design-discovery.html) about why the project came about, and the approach that we were taking with the discovery. Now as we near the end of this phase of the project we want to tell you about what we've learned and provide recommendations for moving into alpha.
+A few weeks ago I [wrote a blog post](/2023/02/01/local-government-content-design-discovery.html) about why the project came about, and the approach that we were taking with the discovery. Now as we near the end of this phase of the project we want to tell you about what we've learned and provide recommendations for moving into alpha.
 
 ## A quick recap
 It was recognised that local authorities are struggling with creating, publishing and maintaining content across the services that they provide to their residents.
@@ -30,7 +30,7 @@ While some users were able to complete this task, we saw that it took alot of na
 
 > “...i’m stressed. If I feel like this and it’s not for real, what would a person be like if they didn’t have the ability to do this and they needed to get the application in by a certain period”
 
-We found that the language on the website was unfamiliar with users and caused confusion and uncertainty. We’ve talked about this in previous weeknotes as [‘council speak’](https://mattlucht.github.io/2023/01/20/local-government-content-discovery-week-2.html#council-speak).
+We found that the language on the website was unfamiliar with users and caused confusion and uncertainty. We’ve talked about this in previous weeknotes as [‘council speak’](/2023/01/20/local-government-content-discovery-week-2.html#council-speak).
 
 > “I think we’ve got to the bit we’re talking about, but ‘disregarded’ that's a strange word in my vocabulary”
 
@@ -62,7 +62,7 @@ However, there is still room for improvement. By quickly prototyping and testing
 
 > “...maybe there’s a reason for this step, but it feels a bit bureaucratic”
 
-You can find the [high-level findings](https://mattlucht.github.io/2023/03/03/local-government-content-discovery-week-8.html#testing-the-prototype-with-users) from this round of user research in our weeknotes.
+You can find the [high-level findings](/2023/03/03/local-government-content-discovery-week-8.html#testing-the-prototype-with-users) from this round of user research in our weeknotes.
 
 ### Iterating the prototype
 With real users testing our prototype, we could see where we could further iterate on some of the steps and content. Due to time constraints we’ve not been able to take this into another round of user testing, but we feel it would be great if work could continue in this area after this phase of the project finishes.

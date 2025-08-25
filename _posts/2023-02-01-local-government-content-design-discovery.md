@@ -19,7 +19,7 @@ With pressure to make sure the latest information is published, the idea of mana
 
 Much of this problem is due to legacy ways of working, and not forgetting  the need to manage a tremendous amount of information with increasingly tight deadlines and limited resources.
 
-Content is often written by subject matter experts and while factually accurate, it’s written from an internal perspective. Things referred to as [“Council speak”](https://mattlucht.github.io/2023/01/20/local-government-content-discovery-week-2.html#council-speak) would find their way onto websites to describe or name services, without realising that citizens do not describe the service the same way or use that language in everyday life.
+Content is often written by subject matter experts and while factually accurate, it’s written from an internal perspective. Things referred to as [“Council speak”](/2023/01/20/local-government-content-discovery-week-2.html#council-speak) would find their way onto websites to describe or name services, without realising that citizens do not describe the service the same way or use that language in everyday life.
 
 ## Goals of the discovery
 The problems outlined above aren’t new and have been acknowledged in previous service improvement reports. But with many pressures faced by local authorities it’s not been possible to prioritise making those changes. And it’s sometimes difficult to fully grasp the impact changing language can have on residents. 
@@ -69,11 +69,11 @@ And;
 
 **So that** I can lower my monthly outgoings
 
-We were keen to make the prototype design as collaborative as possible. We started with a [one-day workshop](https://mattlucht.github.io/2023/02/10/local-government-content-discovery-week-4-and-5.html#getting-together-in-newport) where we met in Newport to discuss and prioritise user needs. We also held a [content co-design session](https://mattlucht.github.io/2023/02/17/local-government-content-discovery-week-6.html#co-designing-the-content) where we explored various ways of phrasing questions to get the right information from users.
+We were keen to make the prototype design as collaborative as possible. We started with a [one-day workshop](/2023/02/10/local-government-content-discovery-week-4-and-5.html#getting-together-in-newport) where we met in Newport to discuss and prioritise user needs. We also held a [content co-design session](/2023/02/17/local-government-content-discovery-week-6.html#co-designing-the-content) where we explored various ways of phrasing questions to get the right information from users.
 
 ![An animated gif of the council tax prototype](/assets/images/council-tax-prototype.gif)
 
-We’re pretty happy with where we got to, we checked it over with subject matter experts and have a prototype that is [now good enough](https://mattlucht.github.io/2023/02/17/local-government-content-discovery-week-6.html#building-the-prototype) to start some user testing.
+We’re pretty happy with where we got to, we checked it over with subject matter experts and have a prototype that is [now good enough](/2023/02/17/local-government-content-discovery-week-6.html#building-the-prototype) to start some user testing.
 
 ## What’s up next?
 
@@ -82,7 +82,7 @@ We’re pretty happy with where we got to, we checked it over with subject matte
 Over the next week and a half we’ll be testing the prototype with more residents across the local authorities. We’ve 9 sessions lined up with people with a good mix of experience using digital services.
 
 ### Good practice and next steps
-Through looking at the council tax service we’ve learned a lot about the [current content creation workflow](https://mattlucht.github.io/2023/01/20/local-government-content-discovery-week-2.html#speaking-with-users) and where there are challenges, bottlenecks and opportunities to do things differently.
+Through looking at the council tax service we’ve learned a lot about the [current content creation workflow](/2023/01/20/local-government-content-discovery-week-2.html#speaking-with-users) and where there are challenges, bottlenecks and opportunities to do things differently.
 
 We’ll be writing a mixture of best practice guides and templates for things like establishing user needs, content request forms, how to gather feedback on a service and how to measure the effectiveness of content.
 

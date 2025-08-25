@@ -4,7 +4,7 @@ author: matt
 ---
 ## Our recommendations for next steps
 
-In my [1st blog post](https://mattlucht.github.io/2023/02/01/local-government-content-design-discovery.html) I described why the [Welsh Local Government Association](https://www.wlga.wales/home) funded a content discovery project. And in the 2nd blog post I talked about [what we learned](https://mattlucht.github.io/2023/03/11/wrapping-up-the-content-discovery-project.html) during the project.
+In my [1st blog post](/2023/02/01/local-government-content-design-discovery.html) I described why the [Welsh Local Government Association](https://www.wlga.wales/home) funded a content discovery project. And in the 2nd blog post I talked about [what we learned](/2023/03/11/wrapping-up-the-content-discovery-project.html) during the project.
 
 This blog post outlines our recommendations and next steps.
 
@@ -83,7 +83,7 @@ Teams within local authorities need to be empowered to do more prototyping and t
 Prototyping allows local authorities to focus on a specific problem and safely test new ideas. It gives an opportunity to continually put things in front of users and get important feedback. Without prototyping and testing with users you increase the risk of releasing a substandard service to the user.
 
 ### Service transformation
-We’ve [previously talked about](https://mattlucht.github.io/2023/01/13/local-government-content-discovery-week-1.html#getting-the-right-focus) the scope of local authority services being incredibly broad and varied. There isn't a big bang solution that will fix all the content problems in one go, and at the same time.
+We’ve [previously talked about](/2023/01/13/local-government-content-discovery-week-1.html#getting-the-right-focus) the scope of local authority services being incredibly broad and varied. There isn't a big bang solution that will fix all the content problems in one go, and at the same time.
 
 However, as mentioned above this discovery has clearly demonstrated that by empowering a small team who have the right skills and are able to focus on a specific problem then you can quickly find ways to make improvements.
 
