@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-25T14:22:23+01:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Learning about clinical assurance</title><link href="http://localhost:4000/2025/08/23/learning-about-clinical-assurance.html" rel="alternate" type="text/html" title="Learning about clinical assurance" /><published>2025-08-23T00:00:00+01:00</published><updated>2025-08-23T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/23/learning-about-clinical-assurance</id><content type="html" xml:base="http://localhost:4000/2025/08/23/learning-about-clinical-assurance.html"><![CDATA[<p>This week we’ve had some really good conversations around <a href="https://www.england.nhs.uk/long-read/digital-clinical-safety-assurance/">clinical assurance</a>, so I’m writing this post to share some of what we discussed, mostly to help me organise my thoughts, but hopefully it’ll be useful for others too. It may get a bit wordy!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-25T14:52:12+01:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Learning about clinical assurance</title><link href="http://localhost:4000/2025/08/23/learning-about-clinical-assurance.html" rel="alternate" type="text/html" title="Learning about clinical assurance" /><published>2025-08-23T00:00:00+01:00</published><updated>2025-08-23T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/23/learning-about-clinical-assurance</id><content type="html" xml:base="http://localhost:4000/2025/08/23/learning-about-clinical-assurance.html"><![CDATA[<p>This week we’ve had some really good conversations around <a href="https://www.england.nhs.uk/long-read/digital-clinical-safety-assurance/">clinical assurance</a>, so I’m writing this post to share some of what we discussed, mostly to help me organise my thoughts, but hopefully it’ll be useful for others too. It may get a bit wordy!</p>
 
 <p>Since joining NHS England one of the steepest learning curves has been around understanding what needs to be done to meet clinical assurance standards. There’s also another aspect, solution (or technical) assurance, but that’s something for another day.</p>
 
@@ -111,7 +111,7 @@
 
 <p>When I joined the team, our remit was focused on establishing digital 1st communications across all screening pathways (breast, cervical, bowel, etc.).</p>
 
-<p>Our immediate priority remains the <a href="https://mattlucht.github.io/2025/08/04/where-am-i.html#what-are-we-doing">delivery of a private beta of breast screening appointment invites</a>. However, beyond that, our focus has shifted to looking at the end-to-end breast screening experience from the participant perspective, of which comms is just one part.</p>
+<p>Our immediate priority remains the <a href="/2025/08/04/where-am-i.html#what-are-we-doing">delivery of a private beta of breast screening appointment invites</a>. However, beyond that, our focus has shifted to looking at the end-to-end breast screening experience from the participant perspective, of which comms is just one part.</p>
 
 <p>The goal of the afternoon was to put aside all known constraints (of which there are many) and imagine what might make for the best screening experience.</p>
 
@@ -226,7 +226,7 @@
   <li>to help with the analysis we gathered a list of local area requirements from all local planning authorities. Its very much a snapshot in time but we plan to publish it as a dataset on planning.data.gov.uk</li>
 </ul>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[This was originally posted on the Digtial Land blog]]></summary></entry><entry><title type="html">Content discovery project recommendations</title><link href="http://localhost:4000/2023/03/15/content-discovery-project-recommendations.html" rel="alternate" type="text/html" title="Content discovery project recommendations" /><published>2023-03-15T00:00:00+00:00</published><updated>2023-03-15T00:00:00+00:00</updated><id>http://localhost:4000/2023/03/15/content-discovery-project-recommendations</id><content type="html" xml:base="http://localhost:4000/2023/03/15/content-discovery-project-recommendations.html"><![CDATA[<h2 id="our-recommendations-for-next-steps">Our recommendations for next steps</h2>
 
-<p>In my <a href="https://mattlucht.github.io/2023/02/01/local-government-content-design-discovery.html">1st blog post</a> I described why the <a href="https://www.wlga.wales/home">Welsh Local Government Association</a> funded a content discovery project. And in the 2nd blog post I talked about <a href="https://mattlucht.github.io/2023/03/11/wrapping-up-the-content-discovery-project.html">what we learned</a> during the project.</p>
+<p>In my <a href="/2023/02/01/local-government-content-design-discovery.html">1st blog post</a> I described why the <a href="https://www.wlga.wales/home">Welsh Local Government Association</a> funded a content discovery project. And in the 2nd blog post I talked about <a href="/2023/03/11/wrapping-up-the-content-discovery-project.html">what we learned</a> during the project.</p>
 
 <p>This blog post outlines our recommendations and next steps.</p>
 
@@ -307,7 +307,7 @@
 <p>Prototyping allows local authorities to focus on a specific problem and safely test new ideas. It gives an opportunity to continually put things in front of users and get important feedback. Without prototyping and testing with users you increase the risk of releasing a substandard service to the user.</p>
 
 <h3 id="service-transformation">Service transformation</h3>
-<p>We’ve <a href="https://mattlucht.github.io/2023/01/13/local-government-content-discovery-week-1.html#getting-the-right-focus">previously talked about</a> the scope of local authority services being incredibly broad and varied. There isn’t a big bang solution that will fix all the content problems in one go, and at the same time.</p>
+<p>We’ve <a href="/2023/01/13/local-government-content-discovery-week-1.html#getting-the-right-focus">previously talked about</a> the scope of local authority services being incredibly broad and varied. There isn’t a big bang solution that will fix all the content problems in one go, and at the same time.</p>
 
 <p>However, as mentioned above this discovery has clearly demonstrated that by empowering a small team who have the right skills and are able to focus on a specific problem then you can quickly find ways to make improvements.</p>
 
@@ -343,7 +343,7 @@
 
 <p>The project was led by <a href="https://www.blaenau-gwent.gov.uk/en/home/">Blaenau Gwent</a> Council alongside 3 other local authorities – <a href="https://www.newport.gov.uk/splash-homepage.aspx">Newport</a>, <a href="https://www.monmouthshire.gov.uk/">Monmouthshire</a> and <a href="https://www.torfaen.gov.uk/en/Home.aspx">Torfaen</a> – and supported by the <a href="https://digitalpublicservices.gov.wales/">Centre for Digital Public Services</a>.</p>
 
-<p>A few weeks ago I <a href="https://mattlucht.github.io/2023/02/01/local-government-content-design-discovery.html">wrote a blog post</a> about why the project came about, and the approach that we were taking with the discovery. Now as we near the end of this phase of the project we want to tell you about what we’ve learned and provide recommendations for moving into alpha.</p>
+<p>A few weeks ago I <a href="/2023/02/01/local-government-content-design-discovery.html">wrote a blog post</a> about why the project came about, and the approach that we were taking with the discovery. Now as we near the end of this phase of the project we want to tell you about what we’ve learned and provide recommendations for moving into alpha.</p>
 
 <h2 id="a-quick-recap">A quick recap</h2>
 <p>It was recognised that local authorities are struggling with creating, publishing and maintaining content across the services that they provide to their residents.</p>
@@ -368,7 +368,7 @@
   <p>“…i’m stressed. If I feel like this and it’s not for real, what would a person be like if they didn’t have the ability to do this and they needed to get the application in by a certain period”</p>
 </blockquote>
 
-<p>We found that the language on the website was unfamiliar with users and caused confusion and uncertainty. We’ve talked about this in previous weeknotes as <a href="https://mattlucht.github.io/2023/01/20/local-government-content-discovery-week-2.html#council-speak">‘council speak’</a>.</p>
+<p>We found that the language on the website was unfamiliar with users and caused confusion and uncertainty. We’ve talked about this in previous weeknotes as <a href="/2023/01/20/local-government-content-discovery-week-2.html#council-speak">‘council speak’</a>.</p>
 
 <blockquote>
   <p>“I think we’ve got to the bit we’re talking about, but ‘disregarded’ that’s a strange word in my vocabulary”</p>
@@ -410,7 +410,7 @@
   <p>“…maybe there’s a reason for this step, but it feels a bit bureaucratic”</p>
 </blockquote>
 
-<p>You can find the <a href="https://mattlucht.github.io/2023/03/03/local-government-content-discovery-week-8.html#testing-the-prototype-with-users">high-level findings</a> from this round of user research in our weeknotes.</p>
+<p>You can find the <a href="/2023/03/03/local-government-content-discovery-week-8.html#testing-the-prototype-with-users">high-level findings</a> from this round of user research in our weeknotes.</p>
 
 <h3 id="iterating-the-prototype">Iterating the prototype</h3>
 <p>With real users testing our prototype, we could see where we could further iterate on some of the steps and content. Due to time constraints we’ve not been able to take this into another round of user testing, but we feel it would be great if work could continue in this area after this phase of the project finishes.</p>
