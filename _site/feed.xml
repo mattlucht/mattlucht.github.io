@@ -1,4 +1,95 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-21T17:38:28+01:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Team day</title><link href="http://localhost:4000/2025/08/07/team-day.html" rel="alternate" type="text/html" title="Team day" /><published>2025-08-07T00:00:00+01:00</published><updated>2025-08-07T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/07/team-day</id><content type="html" xml:base="http://localhost:4000/2025/08/07/team-day.html"><![CDATA[<p>Last week, <a href="https://design-history.prevention-services.nhs.uk/screening-invite/">team Invite</a> got together for a bit of team building and to talk about our evolving remit.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-25T14:04:10+01:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Learning about clinical assurance</title><link href="http://localhost:4000/2025/08/25/learning-about-clinical-assurance.html" rel="alternate" type="text/html" title="Learning about clinical assurance" /><published>2025-08-25T14:04:10+01:00</published><updated>2025-08-25T14:04:10+01:00</updated><id>http://localhost:4000/2025/08/25/learning-about-clinical-assurance</id><content type="html" xml:base="http://localhost:4000/2025/08/25/learning-about-clinical-assurance.html"><![CDATA[<p>This week we’ve had some really good conversations around <a href="https://www.england.nhs.uk/long-read/digital-clinical-safety-assurance/">clinical assurance</a>, so I’m writing this post to share some of what we discussed, mostly to help me organise my thoughts, but hopefully it’ll be useful for others too. It may get a bit wordy!</p>
+
+<p>Since joining NHS England one of the steepest learning curves has been around understanding what needs to be done to meet clinical assurance standards. There’s also another aspect, solution (or technical) assurance, but that’s something for another day.</p>
+
+<p>Previously, I’ve worked in places with some pretty robust governance processes. However, when there’s a potential impact to someone’s health and well-being, ensuring we don’t inadvertently introduce negative consequences is crucial. As a result, there’s a slightly overwhelming amount of evidence we need to provide in demonstrate that we’re clinically safe, even for something as seemingly innocuous as sending an <a href="/2025/08/04/where-am-i.html#what-are-we-doing">invitation for a routine appointment</a>.</p>
+
+<h2 id="what-is-clinical-assurance">What is clinical assurance?</h2>
+
+<p>At the risk of Clinical Safety Officers (CSOs) reading this and burying their heads in their hands, thinking “why doesn’t he still get it”, I’m going to keep this high-level.</p>
+
+<p>Clinical assurance is split into two standards mandated under the <a href="https://www.legislation.gov.uk/ukpga/2012/7/contents">2012 Health and Social Care Act</a>.</p>
+
+<h3 id="dcb0129-safety-standard">DCB0129 safety standard</h3>
+
+<p>The <a href="https://digital.nhs.uk/data-and-information/information-standards/governance/latest-activity/standards-and-collections/dcb0129-clinical-risk-management-its-application-in-the-manufacture-of-health-it-systems/">DCB0129 standard</a> focuses on the technical build side of clinical safety – has the thing been built in a way that it’s not going to harm anyone.</p>
+
+<p>It ensures that the product has been designed and built in a clinically safe manner, considering the underlying code, business logic, and all technical components.</p>
+
+<h3 id="dcb160-safety-standard">DCB160 safety standard</h3>
+
+<p>The <a href="https://digital.nhs.uk/data-and-information/information-standards/governance/latest-activity/standards-and-collections/dcb0160-clinical-risk-management-its-application-in-the-deployment-and-use-of-health-it-systems/">DCB160 standard</a> is focused on the deployment and use of the product – is there a risk of someone using the thing in a way that might harm someone.</p>
+
+<p>It aims to identify any risks associated with its use, particularly in terms of user safety, processes, and training.</p>
+
+<h3 id="the-assurance-process">The assurance process</h3>
+
+<p>In a nutshell, the assurance process for both the 129 and 160 aims to identify potential things that could go wrong, rating those risks based on likelihood and impact. Risks can be identified throughout the product development lifecycle, but typically happen at what is known as a ‘hazard workshop’.</p>
+
+<p>Once risks are identified, it then looks at what mitigating strategies might be put in place which may include technical solutions, training and guidance, or evidencing through user research that the right thing has been designed and built.</p>
+
+<h2 id="challenges-were-overcoming">Challenges we’re overcoming</h2>
+
+<p>Many existing assurance processes have been designed from a view of solutions being procured or developed externally and follow a more <a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall-like process</a> where requirements are specified up front, the solution being designed and heavily documented, then following a linear process of being built, tested, assured, and then deployed.</p>
+
+<p>For the products that we’re working on within Digital Prevention Services Portfolio (DPSP) we have a team of CSOs who recognise approach this is at odds with <a href="https://agilemanifesto.org/">agile working</a> and we’ve been coming together to look at how we can tailor the assurance approach.</p>
+
+<h3 id="changes-to-the-approach">Changes to the approach</h3>
+
+<p>Having worked closely with the assurance teams for several months, we’re each learning more about each other’s respective needs, and we’re continually trying to improve how we work together.</p>
+
+<h4 id="earlier-engagement">Earlier engagement</h4>
+
+<p>We’re now engaging with the assurance teams much earlier on in the process.</p>
+
+<p>Instead of waiting for the hazard workshop at the end of the delivery cycle, we’re having conversations to identify potential clinical risks during initial scoping.</p>
+
+<p>This earlier engagement, allows us to identify potential risks from the outset, allowing us to have those in mind when we’re designing, testing, and building the product.</p>
+
+<h4 id="communicating-changes">Communicating changes</h4>
+
+<p>Agile teams are generally quite comfortable with change. Through user research, we may identify needs that we didn’t know about at the start; tech spikes can prompt us to take a different approach, or when we put early iterations of a product in front of users, we might realise that it’s not working as we expected.</p>
+
+<p>We’re fortunate to have autonomy to adapt our approach to best meet the needs of users.</p>
+
+<p>I like <a href="https://confusedofcalcutta.com/">JP Rangaswami’s</a> response to <a href="https://whatfettle.com/">Paul Downey’s</a> original <a href="https://x.com/psd/status/568324759521501184">post</a>:</p>
+
+<blockquote>
+  <p><em>Agile: make it up as you go along. Waterfall: make it up before you start, live with the consequences</em></p>
+</blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/swardley?ref_src=twsrc%5Etfw">@swardley</a> apropos, albeit tangentially, some of your tweets today. And yes, I have been reading your stuff since about 06</p>&mdash; JP Rangaswami (@jobsworth) <a href="https://twitter.com/jobsworth/status/1302947431240400898?ref_src=twsrc%5Etfw">September 7, 2020</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>As we inevitably iterate our approach, we need to make sure that we’re communicating changes appropriately. We’re still exploring the best way for doing this.</p>
+
+<p>There is documentation that is justifiably needed to evidence what is being built, and we’ve been trying to document our approach as we go. The use of <a href="https://github.com/NHSDigital/dtos-manage-breast-screening/tree/main/docs/adr">architecture decision records</a> and <a href="https://design-history.prevention-services.nhs.uk/screening-invite/">design histories</a> definitely helps. But things like scope documents and solution designs can quite quickly become out of sync, leading to some conversations where we’ve talked at cross purposes.</p>
+
+<h4 id="language">Language</h4>
+
+<p>We’re trying hard to keep the language we use consistent and unambiguous. Within the NHS, there is a lot of domain-specific terminology, which often gets turned into acronyms. The same is also true within product development teams. It’s absolutely OK to stop a conversation and ask for clarity!</p>
+
+<h4 id="approach-to-testing">Approach to testing</h4>
+
+<p>An area that is improving, but still needs some work, is around the approach for testing the code that has been written. Rather than having someone in the team who is solely responsible for testing, or a team that we pass the code over to to test, each of the developers on the team is <a href="https://github.com/NHSDigital/bcss-notifications/tree/main/tests">writing automated tests upfront</a>.</p>
+
+<p>Each of the test suites has a high degree of code coverage, which gives us the confidence that everything is working as expected based on predefined acceptance criteria.</p>
+
+<p>This is different to how testing has typically been done in the past, and with it being such a crucial part of proving that something is clinically safe, we understandably need to ensure that everyone is comfortable with the approach and has the same level of confidence.</p>
+
+<h2 id="were-getting-better-but-theres-more-to-do">We’re getting better, but there’s more to do!</h2>
+
+<p>In summary, the more that we’re working together, the better the process is becoming. There are definitely still things that we can improve, but in understanding the clinical assurance needs better, and talking openly about our collective ways of working, we’re finding ways through the sticking points.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[This week we’ve had some really good conversations around clinical assurance, so I’m writing this post to share some of what we discussed, mostly to help me organise my thoughts, but hopefully it’ll be useful for others too. It may get a bit wordy!]]></summary></entry><entry><title type="html">Reporting</title><link href="http://localhost:4000/2025/08/21/reporting.html" rel="alternate" type="text/html" title="Reporting" /><published>2025-08-21T17:40:23+01:00</published><updated>2025-08-21T17:40:23+01:00</updated><id>http://localhost:4000/2025/08/21/reporting</id><content type="html" xml:base="http://localhost:4000/2025/08/21/reporting.html"><![CDATA[<p>Often times on a project where you’re building a product or a service I find some of the most contensious conversations to be around the reporting requirements. Particularly when its something new its often not clear on what is needed and there’s a tempatation to want all the things.</p>
+
+<p>I think that there are a few things that can help:</p>
+
+<ol>
+  <li>be really clear on the data you have and what that data means</li>
+  <li>eggs not cakes</li>
+  <li>outcomes</li>
+</ol>
+
+<p>ssasas</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[Often times on a project where you’re building a product or a service I find some of the most contensious conversations to be around the reporting requirements. Particularly when its something new its often not clear on what is needed and there’s a tempatation to want all the things.]]></summary></entry><entry><title type="html">Team day</title><link href="http://localhost:4000/2025/08/07/team-day.html" rel="alternate" type="text/html" title="Team day" /><published>2025-08-07T00:00:00+01:00</published><updated>2025-08-07T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/07/team-day</id><content type="html" xml:base="http://localhost:4000/2025/08/07/team-day.html"><![CDATA[<p>Last week, <a href="https://design-history.prevention-services.nhs.uk/screening-invite/">team Invite</a> got together for a bit of team building and to talk about our evolving remit.</p>
 
 <p>As a team who are located all across the country, it’s the first time since I joined the project that we’ve all been able to get together in person.</p>
 
@@ -472,88 +563,4 @@
 
 <h2 id="final-show-and-tell">Final show and tell</h2>
 
-<p>Next week we’ll be holding our final show and tell on 9 March. We’ll provide an overview of what we did during the discovery, show findings from the user research, and talk through our recommendations for moving into alpha.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[This was our 2nd to last week on this phase of the project. It’s fair to say that the past 8 weeks have flown by! We’ve started to shift our mindset from ‘making’ to ‘reflection’.]]></summary></entry><entry><title type="html">Local government content discovery – week 7</title><link href="http://localhost:4000/2023/02/24/local-government-content-discovery-week-7.html" rel="alternate" type="text/html" title="Local government content discovery – week 7" /><published>2023-02-24T00:00:00+00:00</published><updated>2023-02-24T00:00:00+00:00</updated><id>http://localhost:4000/2023/02/24/local-government-content-discovery-week-7</id><content type="html" xml:base="http://localhost:4000/2023/02/24/local-government-content-discovery-week-7.html"><![CDATA[<p>When we were planning out the work for scoping and building the council tax prototype we gave ourselves a couple of weeks for this work. However, we managed to get that everything we wanted to do wrapped up a bit quicker, this meant that over the past week we’ve had a slight change of focus ahead of a busy week 8 of user testing.</p>
-
-<h2 id="documenting-what-weve-done">Documenting what we’ve done</h2>
-
-<p>At the start of discovery one of the goals we set ourselves was to identify opportunities for practical changes to the ways of working within the local authorities when it comes to content workflows.</p>
-
-<p>This week we were able to reflect on what we’ve learnt over the past 6 weeks and started gathering our thoughts on some proposed changes as well as recommendations for alpha.</p>
-
-<h3 id="gathering-feedback">Gathering feedback</h3>
-
-<p>Capturing user feedback from the website was something that came up during a few conversations. We’ve written up a guide for how to collect feedback along with some tips for how to analyse and use what you’ve learnt.</p>
-
-<p>We’ve also created a template form with ideas for questions that might be useful to ask.</p>
-
-<h3 id="prioritising-content-against-user-needs">Prioritising content against user needs</h3>
-
-<p>Another challenge that we heard from each of the local authorities was that content was often added to the website without any consideration for its purpose.</p>
-
-<p>We’ve written some guidelines for how and why a content request process might help to introduce thinking about what user needs are being met by new content being added to the website and to prioritising the work.</p>
-
-<h3 id="extending-the-prototype">Extending the prototype</h3>
-
-<p>We want to make sure that the prototype is able to live on past this phase of the project. All of the code is open source and lives in a public GitHub repository.</p>
-
-<p>We’ve started writing up some high level instructions for how to spin up your version of the prototype and how to make changes to it.</p>
-
-<h2 id="preparing-for-testing-the-prototype">Preparing for testing the prototype</h2>
-
-<p>Next week we’ll be focusing on testing the prototype. We’ve got 9 sessions scheduled with residents across each of the 4 local authorities.</p>
-
-<p>Whilst you can’t really hear from too many users 9 sessions is probably more than we’d normally expect to run at this stage, but given our time constraints this allows us to account for any potential ‘no shows’ or last minute cancellations.</p>
-
-<h2 id="blogging-about-what-weve-done">Blogging about what we’ve done</h2>
-
-<p>We’ve written a short blog post that describes why this discovery project came about and how we’ve gone about tackling the problem.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[When we were planning out the work for scoping and building the council tax prototype we gave ourselves a couple of weeks for this work. However, we managed to get that everything we wanted to do wrapped up a bit quicker, this meant that over the past week we’ve had a slight change of focus ahead of a busy week 8 of user testing.]]></summary></entry><entry><title type="html">Local government content discovery – week 6</title><link href="http://localhost:4000/2023/02/17/local-government-content-discovery-week-6.html" rel="alternate" type="text/html" title="Local government content discovery – week 6" /><published>2023-02-17T00:00:00+00:00</published><updated>2023-02-17T00:00:00+00:00</updated><id>http://localhost:4000/2023/02/17/local-government-content-discovery-week-6</id><content type="html" xml:base="http://localhost:4000/2023/02/17/local-government-content-discovery-week-6.html"><![CDATA[<p>Our focus for this week has primarily been around building a prototype for the “check if you qualify for money off your council tax” and “apply for money off your council tax” journeys.</p>
-
-<h2 id="mapping-out-the-flows">Mapping out the flows</h2>
-
-<p>The user journey flows that we started last week were based on an amalgamation of some existing forms used by each of the four local authorities. This gave us a good baseline to work from and helped frame a conversation to validate the purpose of each question.</p>
-
-<p>Working with Steph, our council tax subject matter expert, we were able to clarify why certain questions were needed and importantly we were able to remove some complexity by dropping questions that weren’t really required.</p>
-
-<p>If we were doing this work as a part of an actual council tax transformation project we could have spent a lot more time on this and within the journeys we’ve looked at there’s definitely some complexity that we’ve purposely put aside. Maybe it’s something for the future!</p>
-
-<h2 id="co-designing-the-content">Co-designing the content</h2>
-
-<p>With a good understanding of what information was needed from a user our next step was to figure out the order in which to ask for that information and how to best phrase those questions. As we mentioned last week, the goal was to only ask for information that’s actually needed, no nice-to-have stuff, and to ask for the information in such a way that we’d be able to determine someone’s eligibility as early on in the journey as possible.</p>
-
-<p>Gwen led a content co-design session with Carolyn, Louise, Tom and Adrián.</p>
-
-<p>The conversation really highlighted the nuances around seemingly simple things like how to determine the number of people living at a property.</p>
-
-<p>There was also the matter of how to ask about potentially sensitive circumstances such as when someone has recently died or when someone has separated from a partner.</p>
-
-<p><img src="/assets/images/content-flows.png" alt="A screenshot of our content flows for the council tax prototype" /></p>
-
-<p>There are definitely some bits to the journey where we still have questions, but the beauty of working in a fast and iterative way is that we don’t need to solve all the problems at once, we’ll learn through testing and figure out what needs to change. Don’t let <a href="https://en.m.wikipedia.org/wiki/Perfect_is_the_enemy_of_good">perfect be the enemy of good</a> and all that!</p>
-
-<h2 id="building-the-prototype">Building the prototype</h2>
-
-<p>As the questions and flows started to take shape we were able to begin building out the prototype.</p>
-
-<p>We wanted the prototype to be available online so that we could put it in front of potential users and just ‘real enough’ that it was something that people could relate to.</p>
-
-<p>There are some harsh edges to the prototype which has allowed us to keep it focused on the part of the journey we’re working on. If it’s useful and if there’s appetite to do more work on council tax journeys the prototype can easily be extended.</p>
-
-<p><img src="/assets/images/council-tax-prototype.gif" alt="An animated gif of the council tax prototype" /></p>
-
-<p>Some minor tweaks aside, it’s in a good place to start testing with users. To avoid any spoilers to potential research participants we’ll share a link to the prototype after the next round of research.</p>
-
-<h3 id="prototyping-toolkits">Prototyping toolkits</h3>
-
-<p>There are lots of different tools that can be used to help with prototyping. For our purpose we opted to use a modified version of the <a href="https://prototype-kit.service.gov.uk/docs/">GOVUK prototype toolkit</a>. Our rationale for using this was:</p>
-
-<ul>
-  <li>the user interaction pattern for question branching (aka smart answers) has been tested many times over with users</li>
-  <li>it’s well documented and there’s an active community of people using and maintaining the toolkit</li>
-  <li>it’s easy to host somewhere online (we’ve used Render)</li>
-  <li>there’s been extensive browser and device testing, so a reduced risk of web browser quirk tripping you up during user testing</li>
-  <li>it’s possible to do some subtle re-theming</li>
-</ul>
-
-<p>On the point of re-theming, we made use of the modified toolkit from the Learn by making project. It’s open source and available in a <a href="https://github.com/learnbymakingwales/lbm-prototype-kit">public code repository</a> — another win for working in the open.</p>
-
-<p>We’ve made the code for the council tax prototype open too, so having said that we won’t share the URL to the clickable prototype just yet, if you really want to take a look <a href="https://github.com/learnbymakingwales/council-tax-prototype">under the hood</a> here you go!</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[Our focus for this week has primarily been around building a prototype for the “check if you qualify for money off your council tax” and “apply for money off your council tax” journeys.]]></summary></entry></feed>
+<p>Next week we’ll be holding our final show and tell on 9 March. We’ll provide an overview of what we did during the discovery, show findings from the user research, and talk through our recommendations for moving into alpha.</p>]]></content><author><name>matt</name></author><summary type="html"><![CDATA[This was our 2nd to last week on this phase of the project. It’s fair to say that the past 8 weeks have flown by! We’ve started to shift our mindset from ‘making’ to ‘reflection’.]]></summary></entry></feed>
