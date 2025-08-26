@@ -73,6 +73,14 @@ There is documentation that is justifiably needed to evidence what is being buil
 
 We're trying hard to keep the language we use consistent and unambiguous. Within the NHS, there is a lot of domain-specific terminology, which often gets turned into acronyms. The same is also true within product development teams. It's absolutely OK to stop a conversation and ask for clarity! 
 
+#### Removing duplication
+
+Across different documents, there’s some duplication where the same information is required in multiple places. We’ve been trying to write things once and link to it whenever possible, but this hasn’t been suitable for all documents. The more we can adopt this approach, the easier it will be to keep everything up-to-date.
+
+Another area where we’re looking to reduce duplication is with the hazard workshops.
+
+Typically, the 129 and 160 workshops (and surrounding conversions) have been held separately. While they’re led by different CSOs, many of the participants across SMEs and the product team are the same, and we often have very similar and overlapping discussions. For our private beta workshops, we’re planning to combine the two areas. 
+
 #### Approach to testing
 
 An area that is improving, but still needs some work, is around the approach for testing the code that has been written. Rather than having someone in the team who is solely responsible for testing, or a team that we pass the code over to to test, each of the developers on the team is [writing automated tests upfront](https://github.com/NHSDigital/bcss-notifications/tree/main/tests).

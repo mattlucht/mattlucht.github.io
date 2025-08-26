@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-25T14:56:31+01:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Learning about clinical assurance</title><link href="http://localhost:4000/2025/08/23/learning-about-clinical-assurance.html" rel="alternate" type="text/html" title="Learning about clinical assurance" /><published>2025-08-23T00:00:00+01:00</published><updated>2025-08-23T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/23/learning-about-clinical-assurance</id><content type="html" xml:base="http://localhost:4000/2025/08/23/learning-about-clinical-assurance.html"><![CDATA[<p>This week we’ve had some really good conversations around <a href="https://www.england.nhs.uk/long-read/digital-clinical-safety-assurance/">clinical assurance</a>, so I’m writing this post to share some of what we discussed, mostly to help me organise my thoughts, but hopefully it’ll be useful for others too. It may get a bit wordy!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-26T08:18:17+01:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Learning about clinical assurance</title><link href="http://localhost:4000/2025/08/23/learning-about-clinical-assurance.html" rel="alternate" type="text/html" title="Learning about clinical assurance" /><published>2025-08-23T00:00:00+01:00</published><updated>2025-08-23T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/23/learning-about-clinical-assurance</id><content type="html" xml:base="http://localhost:4000/2025/08/23/learning-about-clinical-assurance.html"><![CDATA[<p>This week we’ve had some really good conversations around <a href="https://www.england.nhs.uk/long-read/digital-clinical-safety-assurance/">clinical assurance</a>, so I’m writing this post to share some of what we discussed, mostly to help me organise my thoughts, but hopefully it’ll be useful for others too. It may get a bit wordy!</p>
 
 <p>Since joining NHS England one of the steepest learning curves has been around understanding what needs to be done to meet clinical assurance standards. There’s also another aspect, solution (or technical) assurance, but that’s something for another day.</p>
 
@@ -68,6 +68,14 @@
 <h4 id="language">Language</h4>
 
 <p>We’re trying hard to keep the language we use consistent and unambiguous. Within the NHS, there is a lot of domain-specific terminology, which often gets turned into acronyms. The same is also true within product development teams. It’s absolutely OK to stop a conversation and ask for clarity!</p>
+
+<h4 id="removing-duplication">Removing duplication</h4>
+
+<p>Across different documents, there’s some duplication where the same information is required in multiple places. We’ve been trying to write things once and link to it whenever possible, but this hasn’t been suitable for all documents. The more we can adopt this approach, the easier it will be to keep everything up-to-date.</p>
+
+<p>Another area where we’re looking to reduce duplication is with the hazard workshops.</p>
+
+<p>Typically, the 129 and 160 workshops (and surrounding conversions) have been held separately. While they’re led by different CSOs, many of the participants across SMEs and the product team are the same, and we often have very similar and overlapping discussions. For our private beta workshops, we’re planning to combine the two areas.</p>
 
 <h4 id="approach-to-testing">Approach to testing</h4>
 
