@@ -8,8 +8,18 @@ layout: default
 
 <h2>Posts</h2>
 <ul>
-  {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
-  {% for post in filtered_posts %}
-    <li><a href="{{ post.url }}">{{ post.date | date_to_string }} – {{ post.title }}</a></li>
+  {% for post in site.posts %}
+    {% assign show_post = false %}
+    {% comment %} Check if author matches single author field {% endcomment %}
+    {% if post.author == page.short_name %}
+      {% assign show_post = true %}
+    {% endif %}
+    {% comment %} Check if author is in authors array {% endcomment %}
+    {% if post.authors contains page.short_name %}
+      {% assign show_post = true %}
+    {% endif %}
+    {% if show_post %}
+      <li><a href="{{ post.url }}">{{ post.date | date_to_string }} – {{ post.title }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>

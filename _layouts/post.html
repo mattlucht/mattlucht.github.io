@@ -4,11 +4,31 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <p>
-
   {{ page.date | date_to_string }}
-  {% assign author = site.authors | where: 'short_name', page.author | first %}
-  {% if author %}
-    - <a href="{{ author.url }}">{{ author.name }}</a>
+  {% if page.authors %}
+    {% comment %} Multiple authors array {% endcomment %}
+    {% assign author_list = "" %}
+    {% for author_short_name in page.authors %}
+      {% assign author = site.authors | where: 'short_name', author_short_name | first %}
+      {% if author %}
+        {% if forloop.first %}
+          {% assign author_list = author_list | append: '<a href="' | append: author.url | append: '">' | append: author.name | append: '</a>' %}
+        {% elsif forloop.last %}
+          {% assign author_list = author_list | append: ' and <a href="' | append: author.url | append: '">' | append: author.name | append: '</a>' %}
+        {% else %}
+          {% assign author_list = author_list | append: ', <a href="' | append: author.url | append: '">' | append: author.name | append: '</a>' %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% if author_list != "" %}
+      - {{ author_list }}
+    {% endif %}
+  {% elsif page.author %}
+    {% comment %} Single author (backward compatibility) {% endcomment %}
+    {% assign author = site.authors | where: 'short_name', page.author | first %}
+    {% if author %}
+      - <a href="{{ author.url }}">{{ author.name }}</a>
+    {% endif %}
   {% endif %}
 </p>
 
