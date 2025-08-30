@@ -60,3 +60,41 @@ blockquote p {
   margin: 0;
   padding: 0px 0;
 }
+
+.app-multi-image {
+  --gap-size: 3.75px;
+  --extra-size: 0;
+  display: flex;
+  margin-right: 0;
+  margin-bottom: var(--vertical-spacing);
+  flex-wrap: wrap;
+  row-gap: calc(var(--gap-size) * 2);
+}
+.app-multi-image img {
+  box-sizing: border-box;
+  width: 50%;
+  aspect-ratio: 4/3;
+}
+.app-multi-image img:nth-child(odd) {
+  padding-right: var(--gap-size);
+}
+.app-multi-image img:nth-child(even) {
+  padding-left: var(--gap-size);
+}
+@media (min-width: 46.25em) {
+  .app-multi-image {
+    --gap-size: 7.5px;
+    --extra-size: 20%;
+  }
+}
+.app-multi-image .app-multi-image__caption {
+  padding: 0 15px;
+  font-size: var(--x-small-font-size);
+  color: var(--secondary-text-colour);
+}
+@media (min-width: 46.25em) {
+  .app-multi-image .app-multi-image__caption {
+    padding: 0 30px;
+    font-size: var(--small-screen-font-size);
+  }
+}
