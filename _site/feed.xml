@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-30T18:40:03+01:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">This week</title><link href="http://localhost:4000/2025/08/30/this-week.html" rel="alternate" type="text/html" title="This week" /><published>2025-08-30T00:00:00+01:00</published><updated>2025-08-30T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/30/this-week</id><content type="html" xml:base="http://localhost:4000/2025/08/30/this-week.html"><![CDATA[<p>Despite being a short working week and plenty of people being away on holiday, it still felt pretty busy and, thankfully, quite productive too.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-31T09:38:02+01:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">This week</title><link href="http://localhost:4000/2025/08/30/this-week.html" rel="alternate" type="text/html" title="This week" /><published>2025-08-30T00:00:00+01:00</published><updated>2025-08-30T00:00:00+01:00</updated><id>http://localhost:4000/2025/08/30/this-week</id><content type="html" xml:base="http://localhost:4000/2025/08/30/this-week.html"><![CDATA[<p>Despite being a short working week and plenty of people being away on holiday, it still felt pretty busy and, thankfully, quite productive too.</p>
 
 <p>Much of the team’s focus has been around preparing for going into <a href="/2025/08/04/where-am-i.html#what-are-we-doing">“private beta” for sending appointment invitations</a>. I don’t want to tempt fate, but it feels as though we’re in quite good shape!</p>
 
@@ -13,6 +13,14 @@
 <p>Moving to digital comms will mean that some of the reporting needs for breast screening offices will be different to what they currently have, and until we move that new way of working, it’s really hard to know exactly what all their future needs might be.</p>
 
 <p>However, having the underlying data available gives us greater confidence that we can easily spin up different views of the data to help answer different questions. Something that we talked about a lot over at <a href="https://www.planning.data.gov.uk/">Digital Land</a> – data vs information; eggs vs cakes!</p>
+
+<blockquote>
+  <p>Extracting data from information can be like trying to get eggs out of a cake. And while cake is ideal for people who want cake, given the raw ingredients we could also have pancakes, Welsh cakes and Yorkshire puddings.</p>
+
+  <p><br />Making data available as data rather than baked into one kind of information gives people the ingredients they need to freely build services, and to better inform people making lots of different kinds of decisions.</p>
+</blockquote>
+
+<p><em>Source: <a href="https://mhclgdigital.blog.gov.uk/2018/10/25/data-and-information/">It can be difficult to make data from information</a></em></p>
 
 <p><a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/psd/50367816087/" title="Data and documents; eggs and cake etc"><img src="https://live.staticflickr.com/65535/50367816087_cdd64fcfa6_m.jpg" width="240" height="142" alt="Data and documents; eggs and cake etc" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
