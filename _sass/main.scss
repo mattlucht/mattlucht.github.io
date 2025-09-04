@@ -98,10 +98,3 @@ blockquote p {
     font-size: var(--small-screen-font-size);
   }
 }
-
-/* Larger font size for mobile devices */
-@media (max-width: 768px) {
-  body {
-    font-size: 2rem;
-  }
-}
