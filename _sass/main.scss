@@ -8,13 +8,6 @@ body {
   max-width: 1200px;
 }
 
-/* Larger font size for mobile devices */
-@media (max-width: 768px) {
-  body {
-    font-size: 1.4rem;
-  }
-}
-
 .current {
   color: green;
 }
@@ -103,5 +96,12 @@ blockquote p {
   .app-multi-image .app-multi-image__caption {
     padding: 0 30px;
     font-size: var(--small-screen-font-size);
+  }
+}
+
+/* Larger font size for mobile devices */
+@media (max-width: 768px) {
+  body {
+    font-size: 2rem;
   }
 }
