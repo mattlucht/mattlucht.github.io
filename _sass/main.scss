@@ -8,6 +8,13 @@ body {
   max-width: 1200px;
 }
 
+/* Larger font size for mobile devices */
+@media (max-width: 768px) {
+  body {
+    font-size: 1.4rem;
+  }
+}
+
 .current {
   color: green;
 }
