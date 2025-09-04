@@ -23,4 +23,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-  google_analytics: G-C18J6Z0Z87
+  - google_analytics: G-C18J6Z0Z87
